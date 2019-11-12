@@ -5,5 +5,5 @@ const userOutputEl = document.getElementById('output');
 console.log(userInput);
 console.log(userOutputEl)
 
-userOutputEl.innerText = `Your favorite animal is the ${userInput} because ${userInputWhy}`;
+userOutputEl.innerText = `Your favorite animal is the ${userInput} because ${userInputWhy}.`;
 
